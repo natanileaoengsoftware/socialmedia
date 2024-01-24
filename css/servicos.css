@@ -1,0 +1,16 @@
+.servico-bg {
+  background: var(--cor-1);
+}
+.servico-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 40px;
+}
+.titulo-prinicipal {
+  font-family: var(--titulo);
+  font-size: 3.8rem;
+  color: var(--cor-2);
+  display: grid;
+  justify-self: center;
+  margin: 20px 0;
+}
